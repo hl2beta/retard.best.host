@@ -6,6 +6,7 @@ body {
 
 a{
   color: rgb(255, 195, 255);
+  text-underline-offset: 10000px;
 }
 
 footer{
