@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("erroranim.gif");
+    backdrop-filter: blur(1px);
+  }
+
+a{
+  color: rgb(255, 195, 255);
+}
+
+footer{
+    top-padding: 10px;
+    word-spacing: 15px;
+}

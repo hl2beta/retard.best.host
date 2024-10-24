@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    background-size: 275px;
+    text-align: center;
+  }
+
+video{
+  vertical-align: middle;
+  display: block;
+  margin: 0 auto;
+}
+
+h1{
+  text-underline-offset: 1000px;
+}
+

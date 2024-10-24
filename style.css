@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-image: url('img/background.png');
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header {
+  display : inline;
+}
+
+a{
+  color: rgb(185, 247, 255);
+  text-underline-offset: 1000px;
+}
+
+h1{
+  font-size: 30px;
+}
